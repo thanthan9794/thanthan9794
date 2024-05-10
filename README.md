@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 * Google Cloud Platform (Buket,Big Query)
 * Dimensional Modeling
 * Tableau
-* Databricks
 * Mage
-* Alteryx
 
 ### Currently learning ... 🌱
 * Docker
