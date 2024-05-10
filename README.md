@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### Tech Stack 💻
 * Python
 * SQL
-* Google Cloud Platform (Buket,Big Query)
+* Google Cloud Platform (Big Query)
 * Dimensional Modeling
 * Tableau
 * Mage
