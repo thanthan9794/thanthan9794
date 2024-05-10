@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there, I'm Than Than 👋
 
 <!--
 **thanthan9794/thanthan9794** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Tech Stack 💻
+* Python
+* SQL
+* Google Cloud Platform (Buket,Big Query)
+* Dimensional Modeling
+* Tableau
+* Databricks
+* Mage
+* Alteryx
+
+### Currently learning ... 🌱
+* Docker
+* Kafka
+* MongoDB
+* Difference between Airflow and Mage
