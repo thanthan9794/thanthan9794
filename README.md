@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Tech Stack 💻
+### BI & Data Engineer in Supply chain
+
+
+#### Tech Stack 💻
 * Python
 * SQL
 * Google Cloud Platform (Buket,Big Query)
@@ -23,7 +26,7 @@ Here are some ideas to get you started:
 * Tableau
 * Mage
 
-### Currently learning ... 🌱
+#### Currently learning ... 🌱
 * Docker
 * Kafka
 * MongoDB
