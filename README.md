@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 * Dimensional Modeling
 * Tableau
 * Mage
+* Spark
 
 #### Currently learning ... 🌱
 * Docker
