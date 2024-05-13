@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 * Tableau
 * Mage
 * Spark
+* Dbt
 
 #### Currently learning ... 🌱
 * Docker
