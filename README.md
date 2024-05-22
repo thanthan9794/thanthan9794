@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 * Google Cloud Platform (Big Query)
 * Dimensional Modeling
 * Tableau
-* Mage
 * Spark
+* Databrick
 * Dbt
 
 #### Currently learning ... 🌱
